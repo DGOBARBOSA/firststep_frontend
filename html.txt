@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Projetos-DgoAB</title>  
+<meta name="description" content="Projetos de front end, html5, css3, boostrap e TI" />
+<link rel="icon" href="dgoabicon.ico"></link>
+</head>
+
+<body>
+<header>
+<h1>Diogo Barbosa</h1>
+</header>
+
+<nav>
+<ul>
+	<li><a	href="index.html">Home</a></li>
+	<li><a href="projeto.html">Projetos</a></li>
+	<li><a href="material.html">Material</a></li>
+	<li><a href="contato.html">Contato</a></li>
+</ul>
+</nav>
+
+<section>
+<h2>Projetos de FrontEnd.</h2>
+<p>Nam sed dignissim risus. Fusce ante tellus, blandit a neque eget, consequat ullamcorper massa. Integer sed ante blandit, scelerisque enim vitae, pretium arcu. Vivamus eu molestie ligula. Vestibulum gravida quam id felis tincidunt fermentum. Mauris diam nisi, aliquam a purus et, malesuada gravida nisl. Proin finibus odio nisl, quis eleifend magna facilisis ac.</p>
+</section>
+
+<footer><p>Desenvolvido por DBarbosa</p></footer>
+
+</body>
+<html>
